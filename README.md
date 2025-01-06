@@ -53,8 +53,7 @@ Welcome to my GitHub profile! I'm a passionate ** Full Stack Developer** special
   - User features to read, like, and comment on blogs.  
   - Super admin for overseeing sub-admins.
 
-### [Add More Projects Here]
-Feel free to showcase any additional projects with descriptions and links.
+
 
 ---
 
