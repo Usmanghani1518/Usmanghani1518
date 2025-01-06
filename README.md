@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a passionate ** Full Stack Developer** special
 ## 🌐 Connect With Me
 
 - **LinkedIn**: [Usman Ghani](https://www.linkedin.com/in/usman-ghani-b56431271/)
-- **Email**: [mrusmanghani8@gmail.com](mailto:usmanghani.developer@gmail.com)
+- **Email**: [usmanghani.developer@gmail.com](mailto:usmanghani.developer@gmail.com)
 
 ---
 
