@@ -39,7 +39,7 @@ Built a multi-tool conversational agent — live flight prices, hotel availabili
 
 ---
 
-### 📓 JournalsAI — [journalsai.com](https://journalsai.com)
+### 📓 JournalsAI 
 AI-powered journaling platform with personalized writing plans, LLM-generated prompts, RBAC, and Stripe subscriptions.  
 **Stack:** React · FastAPI · OpenAI · Stripe · PostgreSQL
 
