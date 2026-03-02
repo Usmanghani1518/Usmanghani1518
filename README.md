@@ -1,92 +1,85 @@
-# 👋 Hi there, I'm Usman Ghani!
+# Hey, I'm Usman Ghani 👋
 
-Welcome to my GitHub! I’m a passionate **Full Stack Developer** with 3+ years of experience building **scalable SaaS platforms**, integrating **LLM/AI solutions**, and crafting modern UI/UX with **React.js**, **Next.js**, and **Tailwind CSS**. I enjoy solving real-world problems with clean code, smart architecture, and great user experiences.
-
----
-
-## 🚀 About Me
-
-- 🔭 **Currently Building**:  
-  AI-powered journaling & multilingual chatbots at **Cyberify**, using FastAPI, LangChain, OpenAI, and Stripe.
-
-- 🌱 **Deepening Expertise In**:  
-  **RAG architecture**, system design, and full-stack product engineering.
-
-- 💡 **Tech Focus**:  
-  React.js · Next.js · Tailwind CSS · TypeScript · FastAPI · Express.js · PostgreSQL · MongoDB · LangChain · Stripe
-
-- 🎯 **Mission**:  
-  To build meaningful, user-centered AI-powered web applications that scale.
+I build **production-ready AI systems** that automate real business operations — not demos, not prototypes. Deployed systems in healthcare, legal, and travel that handle real workloads, real users, and real edge cases.
 
 ---
 
-## 🛠️ Skills & Tools
+## What I Actually Build
 
-### ⚛️ Frontend:
-- React.js, Next.js, Redux Toolkit, Tailwind CSS, ShadCN UI
-
-### 🧠 Backend:
-- FastAPI, Express.js, Node.js, JWT, REST APIs
-
-### 🗃️ Databases:
-- PostgreSQL, MongoDB
-
-### 🤖 AI/LLM:
-- OpenAI (GPT-4), LangChain, RAG, PgVector
-
-### ⚙️ Other Tools:
-- Git, Docker (basic), Stripe, Postman, Figma
+| System | What It Does |
+|---|---|
+| **RAG Pipelines** | Let businesses query thousands of internal documents in plain English — with source citations |
+| **AI Voice Agents** | Inbound/outbound voice bots that book appointments, send reminders, handle rescheduling |
+| **LLM Integrations** | GPT-4, Claude, Gemini, Mistral, LLaMA — the right model for each job, not just OpenAI defaults |
+| **AI Automation** | n8n, Make, Zapier workflows with AI decision layers — built to survive in production |
+| **Multi-Agent Systems** | CrewAI + LangChain orchestration where specialized agents handle delegation, error recovery, and synthesis |
 
 ---
 
-## 📂 Featured Projects
+## Deployed Projects
 
-### 🔹 JournalsAI (https://journalsai.com)
-AI-powered journaling platform that delivers personalized writing plans and suggestions.  
-- **Tech**: React, FastAPI, OpenAI, Stripe  
-- **Features**: LLM prompts, RBAC, real-time AI suggestions, subscriptions
-
-### 🔹 RAG Chatbot (Multilingual Doc Assistant)  
-Smart document-based Q&A chatbot with semantic search.  
-- **Tech**: LangChain, FastAPI, PgVector, React  
-- **Features**: File ingestion, multilingual embeddings, admin panel
-
-### 🔹 ChartRider  
-Game analytics dashboard with real-time leaderboards and role management.  
-- **Tech**: Next.js, Express.js, MongoDB  
-- **Features**: JWT auth, role-based UI, Mongo aggregations
+### ⚖️ Legal Document RAG System
+Law firm needed lawyers to search thousands of case files, contracts, and legislation without manual digging.  
+Built a full RAG pipeline — document ingestion (PDF/DOCX/OCR), semantic search, citation tracking, chat interface with role-based access.  
+**Stack:** LlamaIndex · OpenAI GPT-4 · Pinecone · FastAPI · Supabase · Python
 
 ---
 
-## 🎓 Education
-
-**BS in Computer Science**  
-University of Education, Lahore  
-🗓️ *2021 – 2025 (Currently 7th semester)*
-
----
-
-## 🌐 Connect With Me
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/usman-ghani-b56431271/)  
-- 📧 [usmanghani.developer@gmail.com](mailto:usmanghani.developer@gmail.com)
+### 🏥 AI Voice Agent — Medical Appointment System
+Clinic staff were spending 4–6 hours/day on appointment calls. High no-show rate. Staff burnout.  
+Built inbound + outbound voice agents — patients call in and get booked, automated reminders go out 24 hrs before, rescheduling handled mid-conversation, fallback to human for complex cases.  
+**Stack:** VAPI · ElevenLabs · Twilio · n8n · Supabase · OpenAI · FastAPI
 
 ---
 
-## 🤝 Let's Collaborate
-
-- 👯 I’m open to working on full stack & AI-based projects  
-- 💬 Ask me about React, FastAPI, LangChain, and integrating OpenAI into real products
-
----
-
-## 🌍 Languages
-
-- Urdu: Native  
-- English: Professional Working Proficiency
+### ✈️ AI Travel Planning Bot
+Travel consultants couldn't scale personalized trip planning. Each client needed hours of research.  
+Built a multi-tool conversational agent — live flight prices, hotel availability, full itineraries, local recommendations, weather, currency conversion. One bot replaced what 3 consultants handled manually.  
+**Stack:** LangChain · OpenAI · Travel APIs · FastAPI · n8n
 
 ---
 
-## ⚡ Fun Fact
+### 📓 JournalsAI — [journalsai.com](https://journalsai.com)
+AI-powered journaling platform with personalized writing plans, LLM-generated prompts, RBAC, and Stripe subscriptions.  
+**Stack:** React · FastAPI · OpenAI · Stripe · PostgreSQL
 
-I love building tools that automate boring stuff, reduce repetition, and bring real user value — whether it’s through clean UI or smart backend logic.
+---
+
+## Tech Stack
+
+**LLMs:** OpenAI GPT-4o · Anthropic Claude · Google Gemini · Meta LLaMA · Mistral · DeepSeek  
+**AI Frameworks:** LangChain · LlamaIndex · CrewAI  
+**Automation:** n8n · Make (Integromat) · Zapier · Activepieces  
+**Voice:** VAPI · ElevenLabs · Twilio  
+**Backend:** Python · FastAPI · Node.js · Express.js  
+**Frontend:** React.js · Next.js · Tailwind CSS · TypeScript · ShadCN UI  
+**Databases:** PostgreSQL · Supabase · pgvector · Pinecone · MongoDB  
+**Other:** Docker · Stripe · Git · Postman · Figma · JWT
+
+---
+
+## How I Work
+
+Every project is structured in clear milestones — you see working deliverables before the next phase begins. No disappearing acts, no scope explosions. I pick the right LLM and stack for each job based on cost, speed, accuracy, and privacy requirements — not just defaults.
+
+I think in business outcomes, not just code delivery.
+
+---
+
+## Education
+
+**BS Computer Science** — University of Education, Lahore 
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Usman%20Ghani-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/usman-ghani-b56431271/)
+[![Email](https://img.shields.io/badge/Email-usmanghani.developer%40gmail.com-red?style=flat&logo=gmail)](mailto:usmanghani.developer@gmail.com)
+
+---
+
+## Languages
+
+🇵🇰 Urdu — Native &nbsp;&nbsp;|&nbsp;&nbsp; 🇬🇧 English — Professional
+
