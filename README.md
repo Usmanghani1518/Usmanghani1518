@@ -15,7 +15,7 @@
 <br>
 
 
-## Why clients hire me
+### Why clients hire me
 
 <table width="100%">
 <tr><td width="34%"><b>Milestone delivery</b></td><td>You see a working deliverable before the next phase starts. No disappearing acts, no scope explosions.</td></tr>
