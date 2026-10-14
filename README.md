@@ -1,85 +1,158 @@
-# Hey, I'm Usman Ghani 👋
+<div align="center">
 
-I build **production-ready AI systems** that automate real business operations — not demos, not prototypes. Deployed systems in healthcare, legal, and travel that handle real workloads, real users, and real edge cases.
+<h1>Usman Ghani</h1>
 
----
+<h3>AI Engineer &nbsp;·&nbsp; Voice Agents &nbsp;·&nbsp; RAG &nbsp;·&nbsp; Automation</h3>
 
-## What I Actually Build
+<p>
+<b>I build AI systems that replace manual work in healthcare, legal and travel.</b><br>
+Deployed. Used daily. Built for real edge cases.
+</p>
 
-| System | What It Does |
-|---|---|
-| **RAG Pipelines** | Let businesses query thousands of internal documents in plain English — with source citations |
-| **AI Voice Agents** | Inbound/outbound voice bots that book appointments, send reminders, handle rescheduling |
-| **LLM Integrations** | GPT-4, Claude, Gemini, Mistral, LLaMA — the right model for each job, not just OpenAI defaults |
-| **AI Automation** | n8n, Make, Zapier workflows with AI decision layers — built to survive in production |
-| **Multi-Agent Systems** | CrewAI + LangChain orchestration where specialized agents handle delegation, error recovery, and synthesis |
+<a href="https://www.linkedin.com/in/usman-ghani-b56431271/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:usmanghani.developer@gmail.com"><img src="https://img.shields.io/badge/Email-Start_a_project-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<img src="https://img.shields.io/badge/Status-Open_for_projects-22C55E?style=for-the-badge" alt="Open for projects">
 
----
+</div>
 
-## Deployed Projects
+<br>
+
+<table align="center" width="100%">
+<tr>
+<td align="center" width="25%"><h2>4–6 hrs</h2><sub>of daily clinic call time automated</sub></td>
+<td align="center" width="25%"><h2>3 → 1</h2><sub>consultants' work handled by one travel bot</sub></td>
+<td align="center" width="25%"><h2>1,000s</h2><sub>of legal documents searchable in plain English</sub></td>
+<td align="center" width="25%"><h2>24 hrs</h2><sub>automated reminder before every appointment</sub></td>
+</tr>
+</table>
+
+<br>
+
+## 🚀 Deployed Projects
 
 ### ⚖️ Legal Document RAG System
-Law firm needed lawyers to search thousands of case files, contracts, and legislation without manual digging.  
-Built a full RAG pipeline — document ingestion (PDF/DOCX/OCR), semantic search, citation tracking, chat interface with role-based access.  
-**Stack:** LlamaIndex · OpenAI GPT-4 · Pinecone · FastAPI · Supabase · Python
 
----
+<table>
+<tr><td width="110"><b>Problem</b></td><td>Lawyers lost hours digging through case files, contracts and legislation.</td></tr>
+<tr><td><b>Solution</b></td><td>Full RAG pipeline: PDF/DOCX/OCR ingestion, semantic search, citation tracking, chat with role-based access.</td></tr>
+<tr><td><b>Result</b></td><td>Lawyers query thousands of documents in plain English and get answers with sources.</td></tr>
+<tr><td><b>Stack</b></td><td><code>LlamaIndex</code> <code>GPT-4</code> <code>Pinecone</code> <code>FastAPI</code> <code>Supabase</code> <code>Python</code></td></tr>
+</table>
 
-### 🏥 AI Voice Agent — Medical Appointment System
-Clinic staff were spending 4–6 hours/day on appointment calls. High no-show rate. Staff burnout.  
-Built inbound + outbound voice agents — patients call in and get booked, automated reminders go out 24 hrs before, rescheduling handled mid-conversation, fallback to human for complex cases.  
-**Stack:** VAPI · ElevenLabs · Twilio · n8n · Supabase · OpenAI · FastAPI
+### 🏥 AI Voice Agent: Medical Appointments
 
----
+<table>
+<tr><td width="110"><b>Problem</b></td><td>Staff spent 4–6 hours a day on appointment calls. High no-shows, staff burnout.</td></tr>
+<tr><td><b>Solution</b></td><td>Inbound and outbound voice agents that book appointments, send reminders 24 hrs before, reschedule mid-call and hand complex cases to a human.</td></tr>
+<tr><td><b>Result</b></td><td>Call load taken off staff, with a human fallback for edge cases.</td></tr>
+<tr><td><b>Stack</b></td><td><code>VAPI</code> <code>ElevenLabs</code> <code>Twilio</code> <code>n8n</code> <code>Supabase</code> <code>OpenAI</code> <code>FastAPI</code></td></tr>
+</table>
 
 ### ✈️ AI Travel Planning Bot
-Travel consultants couldn't scale personalized trip planning. Each client needed hours of research.  
-Built a multi-tool conversational agent — live flight prices, hotel availability, full itineraries, local recommendations, weather, currency conversion. One bot replaced what 3 consultants handled manually.  
-**Stack:** LangChain · OpenAI · Travel APIs · FastAPI · n8n
 
----
+<table>
+<tr><td width="110"><b>Problem</b></td><td>Personalized trip planning meant hours of research per client.</td></tr>
+<tr><td><b>Solution</b></td><td>Multi-tool agent with live flight prices, hotel availability, itineraries, local tips, weather and currency conversion.</td></tr>
+<tr><td><b>Result</b></td><td>One bot handles what 3 consultants did manually.</td></tr>
+<tr><td><b>Stack</b></td><td><code>LangChain</code> <code>OpenAI</code> <code>Travel APIs</code> <code>FastAPI</code> <code>n8n</code></td></tr>
+</table>
 
-### 📓 JournalsAI 
-AI-powered journaling platform with personalized writing plans, LLM-generated prompts, RBAC, and Stripe subscriptions.  
-**Stack:** React · FastAPI · OpenAI · Stripe · PostgreSQL
+### 📓 JournalsAI
 
----
+<table>
+<tr><td width="110"><b>What</b></td><td>AI journaling platform with personalized writing plans, LLM-generated prompts, role-based access and Stripe subscriptions.</td></tr>
+<tr><td><b>Stack</b></td><td><code>React</code> <code>FastAPI</code> <code>OpenAI</code> <code>Stripe</code> <code>PostgreSQL</code></td></tr>
+</table>
 
-## Tech Stack
+<br>
 
-**LLMs:** OpenAI GPT-4o · Anthropic Claude · Google Gemini · Meta LLaMA · Mistral · DeepSeek  
-**AI Frameworks:** LangChain · LlamaIndex · CrewAI  
-**Automation:** n8n · Make (Integromat) · Zapier · Activepieces  
-**Voice:** VAPI · ElevenLabs · Twilio  
-**Backend:** Python · FastAPI · Node.js · Express.js  
-**Frontend:** React.js · Next.js · Tailwind CSS · TypeScript · ShadCN UI  
-**Databases:** PostgreSQL · Supabase · pgvector · Pinecone · MongoDB  
-**Other:** Docker · Stripe · Git · Postman · Figma · JWT
+## 🛠 What I Can Build For You
 
----
+| | |
+|---|---|
+| 🎙 **AI Voice Agents** | Inbound and outbound bots that book, remind and reschedule |
+| 📚 **RAG Systems** | Ask thousands of internal documents questions in plain English, with citations |
+| ⚙️ **AI Automation** | n8n, Make and Zapier workflows with AI decision layers, built to survive production |
+| 🤖 **Multi-Agent Systems** | CrewAI and LangChain agents for delegation, error recovery and synthesis |
+| 🔌 **LLM Integrations** | The right model for each job: GPT-4o, Claude, Gemini, Mistral, LLaMA, DeepSeek |
 
-## How I Work
+<br>
 
-Every project is structured in clear milestones — you see working deliverables before the next phase begins. No disappearing acts, no scope explosions. I pick the right LLM and stack for each job based on cost, speed, accuracy, and privacy requirements — not just defaults.
+## 🤝 How I Work
 
-I think in business outcomes, not just code delivery.
+| | |
+|---|---|
+| **1. Milestones** | You see a working deliverable before the next phase begins |
+| **2. Right-sized stack** | Models and tools chosen on cost, speed, accuracy and privacy, not defaults |
+| **3. Outcomes first** | I start from the business metric, then write the code |
 
----
+<br>
 
-## Education
+## 🧰 Tech Stack
 
-**BS Computer Science** — University of Education, Lahore 
+<table>
+<tr><td width="130"><b>LLMs</b></td><td>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square" alt="OpenAI">
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude">
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
+<img src="https://img.shields.io/badge/LLaMA-0467DF?style=flat-square&logo=meta&logoColor=white" alt="LLaMA">
+<img src="https://img.shields.io/badge/Mistral-FF7000?style=flat-square&logo=mistralai&logoColor=white" alt="Mistral">
+<img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square" alt="DeepSeek">
+</td></tr>
+<tr><td><b>AI Frameworks</b></td><td>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
+<img src="https://img.shields.io/badge/LlamaIndex-8B5CF6?style=flat-square" alt="LlamaIndex">
+<img src="https://img.shields.io/badge/CrewAI-FF5A50?style=flat-square" alt="CrewAI">
+</td></tr>
+<tr><td><b>Automation</b></td><td>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
+<img src="https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white" alt="Make">
+<img src="https://img.shields.io/badge/Zapier-FF4F00?style=flat-square&logo=zapier&logoColor=white" alt="Zapier">
+<img src="https://img.shields.io/badge/Activepieces-6E41E2?style=flat-square" alt="Activepieces">
+</td></tr>
+<tr><td><b>Voice</b></td><td>
+<img src="https://img.shields.io/badge/VAPI-0F172A?style=flat-square" alt="VAPI">
+<img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white" alt="ElevenLabs">
+<img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" alt="Twilio">
+</td></tr>
+<tr><td><b>Backend</b></td><td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express">
+</td></tr>
+<tr><td><b>Frontend</b></td><td>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+<img src="https://img.shields.io/badge/ShadCN_UI-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="ShadCN UI">
+</td></tr>
+<tr><td><b>Databases</b></td><td>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
+<img src="https://img.shields.io/badge/pgvector-336791?style=flat-square" alt="pgvector">
+<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square" alt="Pinecone">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+</td></tr>
+<tr><td><b>Tools</b></td><td>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
+</td></tr>
+</table>
 
----
+<br>
 
-## Connect
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Usman%20Ghani-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/usman-ghani-b56431271/)
-[![Email](https://img.shields.io/badge/Email-usmanghani.developer%40gmail.com-red?style=flat&logo=gmail)](mailto:usmanghani.developer@gmail.com)
+## Got a process eating your team's time?
 
----
+<a href="mailto:usmanghani.developer@gmail.com"><img src="https://img.shields.io/badge/Email_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"></a>
+<a href="https://www.linkedin.com/in/usman-ghani-b56431271/"><img src="https://img.shields.io/badge/Message_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-## Languages
+<sub>BS Computer Science, University of Education, Lahore &nbsp;·&nbsp; Urdu (native) &nbsp;·&nbsp; English (professional)</sub>
 
-🇵🇰 Urdu — Native &nbsp;&nbsp;|&nbsp;&nbsp; 🇬🇧 English — Professional
-
+</div>
