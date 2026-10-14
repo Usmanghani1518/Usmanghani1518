@@ -14,6 +14,14 @@
 
 <br>
 
+<h3 align="center">🤝 Open To</h3>
+
+<p align="center">
+  <a><img src="https://img.shields.io/badge/-%E2%97%8F_Freelance_Projects-22C55E?style=for-the-badge" alt="Open to freelance projects"></a>
+  <a><img src="https://img.shields.io/badge/-%E2%97%8F_Full--time_Roles-3B82F6?style=for-the-badge" alt="Open to full-time roles"></a>
+  <a><img src="https://img.shields.io/badge/-%E2%97%8F_Open_Source-8B5CF6?style=for-the-badge" alt="Open to open source"></a>
+</p>
+
 
 ### Why clients hire me
 
